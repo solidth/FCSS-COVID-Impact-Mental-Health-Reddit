@@ -1,5 +1,6 @@
 # Dataset
 Here you can find the the Data used for the project.
+If the original unpreprocessed data is needed, please feel free to contact me.
 ## LIWC Datasets
 These datasets include the the original Reddit Data such as the text, date as well as all of the calculated LIWC metrics.
 Additionally, we include the official LIWC Test Kitchen Datasets with all the baselines.
